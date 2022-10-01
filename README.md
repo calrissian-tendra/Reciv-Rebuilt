@@ -9,4 +9,4 @@ Two hundred years have passed, and those nomadic tribes are noticing the end of 
 # The Project
 In order to do all the things I would like to do with this mod, I'll need to submit a lot of pull requests to Unciv main, focussing on updating and expanding the uniques attatched to units and tile improvements, and adding more flexibility to the logic that the game uses to run civilisations.
 
-Because I don't have any programming experience, this part of the project will undoubtedly take quite some time, particularly because those pull requests might be rejected, in which case I'll have to build uot my own fork of Unciv, which take much longer. 
+Because I don't have any programming experience, this part of the project will undoubtedly take quite some time, particularly because those pull requests might be rejected, in which case I'll have to build out my own fork of Unciv, which will take much longer. 
